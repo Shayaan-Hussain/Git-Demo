@@ -1,0 +1,5 @@
+use touch command to create a file
+use vi command to open a file in edit mode
+use "gid add ." to prepare the file for git
+use "git commit -m "learning commands"
+use "git push origin master"
